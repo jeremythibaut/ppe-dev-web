@@ -6,17 +6,40 @@
 </head>
 
 <body>
+<div id="global">
+        <div id="header">
 
-<div style="margin-left: 150px; margin-top: 5px;">
+
+<div style="margin-left: 150px; margin-top: -10px;">
 <h1>Je Cherche Un informaticien</h1> 
 </div>
  
   
-  <div style="margin-left: 1500px; margin-top: 0px;">
-  <p><a href="contenu/page 2.html">la page 2</a> ?</p>
+  <div style="margin-left: 1000px; margin-top: -30px;">
+  <p><a href="contenu/page 2.html">accueil</a> </p>
+  </div> 
+  
+  <div style="margin-left: 1100px; margin-top: -35px;">
+  <p><a href="contenu/page 2.html">technicien</a> </p>
+  </div> 
+  
+  <div style="margin-left: 1200px; margin-top: -34px;">
+  <p><a href="contenu/page 2.html">pour les entreprise</a> </p>
+  </div> 
+  
+  <div style="margin-left: 1350px; margin-top: -34px;">
+  <p><a href="contenu/page 2.html">contact</a> </p>
+  </div> 
+  
+  <div style="margin-left: 1450px; margin-top: -34px;">
+  <p><a href="contenu/page 2.html">impoter CV</a> </p>
+  </div> 
+  
+  <div style="margin-left: 1550px; margin-top: -34px;">
+  <p><a href="contenu/page 2.html">se déconnecter</a> </p>
   </div> 
 
 	
-	
+
 </body>
 </html>
